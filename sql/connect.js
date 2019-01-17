@@ -1,8 +1,8 @@
 var mysql      = require('mysql');
 var connection = mysql.createConnection({
-  host     : 'rm-bp1333h332uqhzjtc0o.mysql.rds.aliyuncs.com',
+  host     : 'rm-bp1333h332uqhzjtc00o.mysql.rds.aliyuncs.com',
   user     : 'zhangdan',
-  password : 'Zhangdan183',
+  password : 'Zhangdan',
   database : 'testceshi1'
 });
  
